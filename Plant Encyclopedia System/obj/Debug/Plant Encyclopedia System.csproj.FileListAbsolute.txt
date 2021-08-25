@@ -1,0 +1,15 @@
+E:\AIUB\OOP2\lab\Plant Encyclopedia Systemm\Plant Encyclopedia Systemm\bin\Debug\Plant Encyclopedia Systemm.exe.config
+C:\Users\User\Downloads\Plant Encyclopedia System\Plant Encyclopedia System\bin\Debug\Plant Encyclopedia Systemm.exe.config
+C:\Users\User\Downloads\Plant Encyclopedia System\Plant Encyclopedia System\bin\Debug\Plant Encyclopedia Systemm.exe
+C:\Users\User\Downloads\Plant Encyclopedia System\Plant Encyclopedia System\bin\Debug\Plant Encyclopedia Systemm.pdb
+C:\Users\User\Downloads\Plant Encyclopedia System\Plant Encyclopedia System\obj\Debug\Plant Encyclopedia System.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Plant Encyclopedia System\Plant Encyclopedia System\obj\Debug\Plant_Encyclopedia_Systemm.Admin.resources
+C:\Users\User\Downloads\Plant Encyclopedia System\Plant Encyclopedia System\obj\Debug\Plant_Encyclopedia_Systemm.Home.resources
+C:\Users\User\Downloads\Plant Encyclopedia System\Plant Encyclopedia System\obj\Debug\Plant_Encyclopedia_Systemm.Login.resources
+C:\Users\User\Downloads\Plant Encyclopedia System\Plant Encyclopedia System\obj\Debug\Plant_Encyclopedia_Systemm.Properties.Resources.resources
+C:\Users\User\Downloads\Plant Encyclopedia System\Plant Encyclopedia System\obj\Debug\Plant Encyclopedia System.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Plant Encyclopedia System\Plant Encyclopedia System\obj\Debug\Plant Encyclopedia System.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Plant Encyclopedia System\Plant Encyclopedia System\obj\Debug\Plant Encyclopedia Systemm.exe
+C:\Users\User\Downloads\Plant Encyclopedia System\Plant Encyclopedia System\obj\Debug\Plant Encyclopedia Systemm.pdb
+C:\Users\User\Downloads\Plant Encyclopedia System\Plant Encyclopedia System\obj\Debug\Plant_Encyclopedia_Systemm.DashboardTree.resources
+C:\Users\User\Downloads\Plant Encyclopedia System\Plant Encyclopedia System\obj\Debug\Plant_Encyclopedia_Systemm.Member1.resources
